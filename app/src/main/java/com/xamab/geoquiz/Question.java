@@ -1,8 +1,5 @@
 package com.xamab.geoquiz;
 
-/**
- * Created by peter_000 on 12.01.2016.
- */
 public class Question {
     private int mTextResId;
     private boolean mAnswerTrue;
